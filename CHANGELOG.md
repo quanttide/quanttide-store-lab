@@ -10,6 +10,10 @@
 
 ## [Unreleased]
 
+### Removed
+
+- 删除 `prototypes/wutongxiang-coffee-dashboard.html`：与上线位 `src/lite/src/index.html` 同内容，保留单一正本
+
 ### 新增
 
 - 上线：`src/lite/src/index.html`（梧桐巷咖啡馆经营看板）经 GitHub Actions 发布到 GitHub Pages，push main 自动部署
