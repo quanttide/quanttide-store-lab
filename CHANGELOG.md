@@ -12,4 +12,6 @@
 
 ### 新增
 
+- 上线：`src/lite/src/index.html`（梧桐巷咖啡馆经营看板）经 GitHub Actions 发布到 GitHub Pages，push main 自动部署
+
 - 新增 `prototypes/wutongxiang-coffee-dashboard.html`：梧桐巷咖啡馆 · 门店经营看板原型（营业额、客流、客单价、热销商品、库存预警、7 天趋势，单文件内联无外链），团队成员制作，来源 <https://ac327c17616cb40c.app.workbuddy.host/?sharecode=OHGNKPSGWM>

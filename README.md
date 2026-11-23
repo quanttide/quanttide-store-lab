@@ -6,6 +6,7 @@
 
 ```
 prototypes/     原型——单文件 HTML，浏览器直接打开
+src/lite/src/    上线位——GitHub Pages 发布目录（index.html）
 ```
 
 ## 许可
